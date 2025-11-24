@@ -5,7 +5,7 @@
 A clean, responsive template for academic project pages.
 
 
-Example project pages built using this template are:
+Example project pages built using this template a re:
 - https://horwitz.ai/probex
 - https://vision.huji.ac.il/probegen
 - https://horwitz.ai/mother
